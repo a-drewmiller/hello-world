@@ -1,2 +1,2 @@
 # hello-world
-My coursework completed for the Open Source Society's Computer Science curriculum
+I am a 26 year old who holds a B.S. in Economics and is learning computer science.
